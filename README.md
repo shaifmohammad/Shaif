@@ -1,2 +1,3 @@
 # Shaif
 App
+codemagic.yaml
